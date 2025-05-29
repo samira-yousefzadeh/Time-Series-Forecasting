@@ -1,7 +1,7 @@
 # Time Series Forecasting with Machine Learning (Python)
 
 A simple Time Series Forecasting project in Python using Machine Learning. It transforms a univariate time series into a supervised learning problem and applies Linear Regression to predict future values based on historical lag features. The project includes data preparation, model training, prediction, and visualization.
-~~~
+
 
 This project demonstrates a simple Time Series Forecasting approach using traditional Machine Learning. We use **Linear Regression** to predict future values based on lagged historical data.
 
@@ -27,6 +27,5 @@ We use lag features as inputs to predict the current value of the series. For ex
 
 Install the required packages using pip:
 
-```bash
 pip install pandas numpy matplotlib scikit-learn
 
